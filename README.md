@@ -33,3 +33,6 @@ https://learn.microsoft.com/en-us/azure/databricks/generative-ai/agent-bricks/ <
 
 ### Introducing Agent Bricks: Auto-Optimized Agents Using Your Data
 https://www.databricks.com/blog/introducing-agent-bricks
+
+### RAG (Retrieval Augmented Generation) on Databricks
+https://docs.databricks.com/aws/en/generative-ai/retrieval-augmented-generation
