@@ -36,3 +36,7 @@ https://www.databricks.com/blog/introducing-agent-bricks
 
 ### RAG (Retrieval Augmented Generation) on Databricks
 https://docs.databricks.com/aws/en/generative-ai/retrieval-augmented-generation
+
+### Model Context Protocol (MCP) on Databricks
+https://caiomsouza.medium.com/model-context-protocol-mcp-on-databricks-5edcaed02935<BR>
+https://docs.databricks.com/aws/en/generative-ai/mcp/<BR>
