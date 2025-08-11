@@ -41,3 +41,6 @@ https://docs.databricks.com/aws/en/generative-ai/retrieval-augmented-generation
 https://caiomsouza.medium.com/model-context-protocol-mcp-on-databricks-5edcaed02935<BR>
 https://docs.databricks.com/aws/en/generative-ai/mcp/<BR>
 https://www.databricks.com/blog/announcing-managed-mcp-servers-unity-catalog-and-mosaic-ai-integration<BR>
+
+### Building Tool-Calling Agents With Databricks Agent Framework and MCP
+https://www.youtube.com/watch?v=0X6kJzX-CgA
